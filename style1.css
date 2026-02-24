@@ -1,0 +1,55 @@
+
+*{
+    font-size: 15px;
+    font-weight: 100;
+    
+}
+body{
+    background-color: #a6dae7e3;
+}
+
+h1{
+    font-size: 25px;
+}
+
+
+h3{
+    color: rgb(141, 57, 219); 
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6{
+    color: red;
+}
+
+h4{
+    color: palegreen;
+    font-style:oblique;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+
+.myclass{
+    color: darkkhaki;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#myid{
+    color: mediumpurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5,p{
+    color: rgb(40, 220, 112)
+    
+}
+
+label:hover{
+    color:rgb(21, 233, 67)
+}
+
+p::first-letter{
+    font-size: 200%;
+    color: #FF7B72
+}
